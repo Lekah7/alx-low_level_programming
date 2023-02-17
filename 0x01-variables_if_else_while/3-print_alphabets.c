@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-        char lower_case = "a"
-	char upper_case = "A"
+        char lower_case = 'a';
+	char upper_case = 'A';
 
         if (lower_case <= 'z')
 	{
