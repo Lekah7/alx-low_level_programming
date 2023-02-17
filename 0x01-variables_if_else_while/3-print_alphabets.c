@@ -8,6 +8,7 @@
 int main(void)
 {
 	char lower_case = 'a';
+
 	char upper_case = 'A';
 
         while
@@ -20,7 +21,7 @@ int main(void)
 			putchar(upper_case);
 			upper_case++;
 		}
-        putchar('\n');
+        putchar('\n'=lp);
         return (0);
 }
 
