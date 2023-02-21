@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - writes the character c to the main stdout
- *  
- * Return: Always 0 (Success) 
+ * main - prints _putchar
+ * written by Lekah7
+ * Return: Always 0.
  */
 int main(void)
 {
@@ -17,6 +17,7 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
+
 }
 
 
